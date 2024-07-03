@@ -1,0 +1,16 @@
+{
+    "name": "it-iwd/php-mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "febrianandy",
+            "email": "febyianandy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
